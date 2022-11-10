@@ -1,6 +1,6 @@
 # PythonPlantsVsZombies
   A simple PlantsVsZombies game. <br>
-  `It's only for personal learning and noncommercial use. If this game infringes the copyright, please let me know.`
+`
 * implement plants: sunflower, peashooter, wallnut, snowpeashooter, cherrybomb, threepeashooter, chomper, puffshroom, potatomine, spikeweed, scaredyshroom, squash, scaredyshroom, jalapeno, sunShroom, iceShroom, hypnoShroom.
 * implement zombies: zombie, flagzombie, coneheadzombie, bucketheadzombie, newspaperzombie.
 * use json file to store level data (e.g.position and time of zombies, background info)
@@ -22,8 +22,4 @@ $ python main.py
   * level 3: night level
   * level 4: moving card select level
   * level 5: wallnut bowling level
-
-# Demo
-![demo1](https://raw.githubusercontent.com/marblexu/PythonPlantsVsZombies/master/demo/demo1.jpg)
-![demo2](https://raw.githubusercontent.com/marblexu/PythonPlantsVsZombies/master/demo/demo2.jpg)
 
