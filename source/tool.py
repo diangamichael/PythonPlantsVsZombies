@@ -1,4 +1,4 @@
-__author__ = 'marble_xu'
+__author__ = 'DIANGA MICHAEL'
 
 import os
 import json
